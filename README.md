@@ -1,1 +1,1 @@
-# almokoushik-bg-change-simple-chrome-ext
+# bg-change-simple-chrome-ext
